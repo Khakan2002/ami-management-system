@@ -10,11 +10,12 @@ A GUI-based application built with **Python** and **Tkinter** to manage academic
 Python (Tkinter), CSV
 
 ## 📸 Screenshots
+
 **Main Menu**  
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](main_menu.png)
 
 **Update Record Example**  
-![Update Record](screenshots/view_records.png)
+![Update Record](update_record.png)
 
 **View Records Example**  
-![View Records](screenshots/view_records_full.png)
+![View Records](view_records.png)
